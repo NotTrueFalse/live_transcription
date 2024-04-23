@@ -1,0 +1,3 @@
+faster_whisper
+soundcard
+soundfile
